@@ -1,3 +1,5 @@
+export 'package:localsend_app/isolate/src/isolate/child/http_server_events.dart';
+export 'package:localsend_app/isolate/src/isolate/child/http_server_isolate.dart';
 export 'package:localsend_app/isolate/src/isolate/child/sync_provider.dart';
 export 'package:localsend_app/isolate/src/isolate/child/upload_isolate.dart'
     show
